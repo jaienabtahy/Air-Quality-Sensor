@@ -1,4 +1,4 @@
-# Air Quality Detection and Prediction
+# Air Quality Detection and Prediction [Ongoing]
 This is a portfolio project developed by [Jaien Abtahi] under the CUNY ASRC Environmental Sciences Lab. The project involves air quality detection, data collection, and prediction using various technologies.
 
 ## Overview
