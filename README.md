@@ -1,5 +1,5 @@
 # Air Quality Detection and Prediction
-This is a portfolio project developed by [Your Name] under the CUNY ASRC Lab. The project involves air quality detection, data collection, and prediction using various technologies.
+This is a portfolio project developed by [Jaien Abtahi] under the CUNY ASRC Environmental Sciences Lab. The project involves air quality detection, data collection, and prediction using various technologies.
 
 ## Overview
 The project aims to detect and predict air quality using custom-built sensors, Google Sheets for data collection, and random forests for prediction. The air quality detection system is built using an Arduino board, which measures various air quality parameters, such as temperature, humidity, and particulate matter (PM). The data collected from the sensors is then stored in a Google Sheets document for further analysis.
